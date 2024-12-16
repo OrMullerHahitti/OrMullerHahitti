@@ -19,7 +19,3 @@ A Python-based project focused on extracting and processing text data from vario
 ## Contact Me
 - **Email:** [ormullerh@gmail.com](ormullerh@gmail.com)
 - **LinkedIn:** [Or Muller](https://www.linkedin.com/in/or-muller)
-
-
-## GitHub Stats
-![OrMullerHahitti's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrMullerHahitti&show_icons=true&theme=radical)
