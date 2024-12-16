@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Or Muller 👋
 
-<!--
-**OrMullerHahitti/OrMullerHahitti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with a keen interest in algorithmic development, machine learning, and open source projects. I love to solve complex problems and contribute to the developer community.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:**  Python, TypeScript, Java,JavaScript
+- **Frameworks:**  Django, Flask,FastAPI,React, Node.js
+- **Tools:** Git, Docker, Kubernetes,  Azure
+- **Databases:** MySQL, PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### [Belief Propagation Simulator](https://github.com/OrMullerHahitti/Belief-Propagation-Simulator)
+
+A simulator for belief propagation algorithms implemented in Python. This project provides tools and examples for simulating and visualizing belief propagation in various types of networks.
+### [data scarping, preproccessing, and analysing](https://github.com/OrMullerHahitti/text-in-data)
+A Python-based project focused on extracting and processing text data from various sources. This repository provides tools and scripts to clean, analyze, and visualize textual data for data science and machine learning applications.
+
+## Contact Me
+- **Email:** [ormullerh@gmail.com](ormullerh@gmail.com)
+- **LinkedIn:** [Or Muller](https://www.linkedin.com/in/or-muller)
+
+
+## GitHub Stats
+![OrMullerHahitti's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrMullerHahitti&show_icons=true&theme=radical)
