@@ -5,14 +5,14 @@ I'm a passionate developer with a keen interest in algorithmic development, mach
 
 ## Skills
 - **Languages:**  Python, TypeScript, Java,JavaScript
-- **Frameworks:**  Django, Flask,FastAPI,React, Node.js
-- **Tools:** Git, Docker, Kubernetes,  Azure
+- **Frameworks:** FastAPI, LangChain, NumpPy, pandas, 
+- **Tools:** Git, Docker,  Azure
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 ## Projects
 ### [Belief Propagation Simulator](https://github.com/OrMullerHahitti/Belief-Propagation-Simulator)
 
-A simulator for belief propagation algorithms implemented in Python. This project provides tools and examples for simulating and visualizing belief propagation in various types of networks.
+A simulator for belief propagation algorithms implemented in Python. This project provides tools and examples for simulating and visualizing belief propagation in Factor Graphs.
 ### [data scarping, preproccessing, and analysing](https://github.com/OrMullerHahitti/text-in-data)
 A Python-based project focused on extracting and processing text data from various sources. This repository provides tools and scripts to clean, analyze, and visualize textual data for data science and machine learning applications.
 
