@@ -4,7 +4,7 @@
 I'm a passionate developer with a keen interest in algorithmic development, machine learning, and open source projects. I love to solve complex problems and contribute to the developer community.
 
 ## Skills
-- **Languages:**  Python, TypeScript, Java,JavaScript
+- **Languages:**  Python, Java,JavaScript
 - **Frameworks:** FastAPI, LangChain, NumpPy, pandas, 
 - **Tools:** Git, Docker
 - **Databases:** MySQL, PostgreSQL, MongoDB
