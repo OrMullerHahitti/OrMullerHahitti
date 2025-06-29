@@ -10,7 +10,7 @@ I'm a passionate developer with a keen interest in algorithmic development, mach
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 ## Projects
-### [Belief Propagation Simulator](https://github.com/OrMullerHahitti/Belief-Propagation-Simulator)
+### [Belief Propagation Simulator](https://github.com/OrMullerHahitti/Belief-Propagation-Simulator -- currently private
 
 A simulator for belief propagation algorithms implemented in Python. This project provides tools and examples for simulating and visualizing belief propagation in Factor Graphs.
 ### [Automatic Release Notes Genetator](https://github.com/OrMullerHahitti/AutomatedReleaseNotes))
