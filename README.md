@@ -1,13 +1,14 @@
 # Hi there, I'm Or Muller 👋
 
 ## About Me
-I'm a passionate developer with a keen interest in algorithmic development, machine learning, and open source projects. I love to solve complex problems and contribute to the developer community.
+I'm a passionate developer with a keen interest in algorithmic development, machine learning,IOT, and open source projects. I love to solve complex problems and contribute to the developer community.
 
 ## Skills
-- **Languages:**  Python, Java,JavaScript
-- **Frameworks:** FastAPI, LangChain, NumpPy, pandas, 
+- **Languages:**  Python, Java
+- **Frameworks:** FastAPI, LangChain, NumpPy, pandas and much more
 - **Tools:** Git, Docker
 - **Databases:** MySQL, PostgreSQL, MongoDB
+- highly skilled in developing simulation domain for various algorithms, espicially distributed ones (see Belief_Propagation_simulator)
 
 ## Projects
 ### [Belief Propagation Simulator](https://github.com/OrMullerHahitti/Belief-Propagation-Simulator)
